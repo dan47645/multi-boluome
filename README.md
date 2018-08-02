@@ -1,1 +1,2 @@
 # multi-boluome
+这个是用SpringCloud+SpringBoot搭建的简单的微服务框架
